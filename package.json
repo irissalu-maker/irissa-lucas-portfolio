@@ -1,0 +1,15 @@
+{
+  "name": "irissa-lucas-portfolio",
+  "version": "1.0.0",
+  "description": "Irissa Lucas - Cybersecurity Engineer Portfolio",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static HTML - no build needed'"
+  },
+  "keywords": [],
+  "author": "Irissa Lucas",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.15"
+  }
+}
